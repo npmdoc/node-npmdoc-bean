@@ -1,0 +1,14 @@
+{
+  "name": "npmdoc-bean",
+  "description": "# package.json",
+  "version": "0.0.1",
+  "keywords": [
+    "documentation",
+    "bean"
+  ],
+  "main": "bean.js",
+  "scripts": [
+    "bean.js"
+  ],
+  "repo": "https://github.com/fat/bean"
+}
