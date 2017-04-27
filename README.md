@@ -1,6 +1,6 @@
 # npmdoc-bean
 
-#### api documentation for  [bean (v1.0.15)](https://github.com/fat/bean)  [![npm package](https://img.shields.io/npm/v/npmdoc-bean.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bean) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bean.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bean)
+#### basic api documentation for  [bean (v1.0.15)](https://github.com/fat/bean)  [![npm package](https://img.shields.io/npm/v/npmdoc-bean.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bean) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bean.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bean)
 
 #### A small, fast, framework-agnostic event manager
 
@@ -69,7 +69,8 @@
         "url": "git+https://github.com/fat/bean.git"
     },
     "scripts": {},
-    "version": "1.0.15"
+    "version": "1.0.15",
+    "bin": {}
 }
 ```
 
